@@ -1,0 +1,6 @@
+{
+  "name": "TKR Hub - Bangladesh Online Store",
+  "description": "TKR Hub is a complete modern online store for Bangladesh featuring authentic gadgets, cash-on-delivery checkout, and real-time courier parcel tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

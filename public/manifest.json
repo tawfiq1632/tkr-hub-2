@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "TKR Express Hub - Bangladesh Online Store",
+  "short_name": "TKR Hub",
+  "description": "বাংলাদেশের প্রিমিয়াম গ্যাজেট, এক্সেসরিজ ও অনলাইন শপিং হাব। সারাদেশে ক্যাশ অন ডেলিভারি ও রিয়েল-টাইম ট্র্যাকিং সুবিধা।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "lang": "bn-BD",
+  "categories": ["shopping", "ecommerce", "gadgets"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
